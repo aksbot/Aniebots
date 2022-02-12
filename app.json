@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Anieteam/Aniebots/",
-  "website": "https://github.com/Anieteam/Aniebots/",
+  "repository": "https://github.com/aksbot/Aniebots/",
+  "website": "https://github.com/aksbot/Aniebots/",
   "success_url": "https://t.me/Aniebotsupports",
   "env": {
     "ENV": {
