@@ -2,7 +2,7 @@
 <b> 『🅰🅽🅸🅴🆄🆂🅴🆁🅱🅾🆃』🇮🇳 </b>
 </h1>
 
-[![ANIEBOT](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://github.com/Anieteam/Aniebots)
+[![ANIEBOT](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://github.com/aksbot/Aniebots)
 
 <h6 align="center">
   <b>⚡ AnieBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/Anieteam/Aniebots.git`
+`git clone https://github.com/aksbot/Aniebots.git`
 - Open Cloned Folder.
 
 `cd ANIEUSERBOT`
